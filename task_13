@@ -1,0 +1,14 @@
+Q1. 
+p {
+  text-align: justify;
+}
+
+Q2.
+p {
+  text-shadow: 2px 2px 4px gray;
+}
+
+Q3. 
+p {
+  font: italic small-caps bold 16px/1.5 "Arial", sans-serif;
+}
